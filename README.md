@@ -11,3 +11,5 @@
 📊 Let's collaborate on exciting data-driven projects or discuss anything related to data science. Feel free to explore my repositories and connect with me on social media!
 
 📫 Reach me at 1997anuragkashyap@gmail.com | 🌐
+
+Connect with Me [LinkedIn](https://www.linkedin.com/in/anurag-kumar-ds97)
